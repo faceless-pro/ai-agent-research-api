@@ -1,6 +1,6 @@
 fastapi
-uvicorn
-requests
+uvicorn[standard]
+httpx
 beautifulsoup4
 google-genai
 pydantic
